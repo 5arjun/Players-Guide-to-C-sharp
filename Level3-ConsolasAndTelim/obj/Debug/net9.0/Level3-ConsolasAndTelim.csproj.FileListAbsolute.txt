@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/bin/Debug/net9.0/Level3-ConsolasAndTelim
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/bin/Debug/net9.0/Level3-ConsolasAndTelim.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/bin/Debug/net9.0/Level3-ConsolasAndTelim.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/bin/Debug/net9.0/Level3-ConsolasAndTelim.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/bin/Debug/net9.0/Level3-ConsolasAndTelim.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/Level3-ConsolasAndTelim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/Level3-ConsolasAndTelim.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/Level3-ConsolasAndTelim.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/Level3-ConsolasAndTelim.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/Level3-ConsolasAndTelim.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/Level3-ConsolasAndTelim.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/refint/Level3-ConsolasAndTelim.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/Level3-ConsolasAndTelim.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/Level3-ConsolasAndTelim.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level3-ConsolasAndTelim/obj/Debug/net9.0/ref/Level3-ConsolasAndTelim.dll
