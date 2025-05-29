@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/bin/Debug/net9.0/Level4-TheThingNamer3000
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/bin/Debug/net9.0/Level4-TheThingNamer3000.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/bin/Debug/net9.0/Level4-TheThingNamer3000.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/bin/Debug/net9.0/Level4-TheThingNamer3000.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/bin/Debug/net9.0/Level4-TheThingNamer3000.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/Level4-TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/Level4-TheThingNamer3000.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/Level4-TheThingNamer3000.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/Level4-TheThingNamer3000.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/Level4-TheThingNamer3000.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/Level4-TheThingNamer3000.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/refint/Level4-TheThingNamer3000.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/Level4-TheThingNamer3000.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/Level4-TheThingNamer3000.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level4-TheThingNamer3000/obj/Debug/net9.0/ref/Level4-TheThingNamer3000.dll
