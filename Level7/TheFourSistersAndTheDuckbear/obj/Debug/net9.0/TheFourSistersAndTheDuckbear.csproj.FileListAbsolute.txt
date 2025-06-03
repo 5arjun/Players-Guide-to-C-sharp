@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/bin/Debug/net9.0/TheFourSistersAndTheDuckbear
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/bin/Debug/net9.0/TheFourSistersAndTheDuckbear.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/bin/Debug/net9.0/TheFourSistersAndTheDuckbear.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/bin/Debug/net9.0/TheFourSistersAndTheDuckbear.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/bin/Debug/net9.0/TheFourSistersAndTheDuckbear.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/TheFourSistersAndTheDuckbear.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/TheFourSistersAndTheDuckbear.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/refint/TheFourSistersAndTheDuckbear.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/TheFourSistersAndTheDuckbear.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheFourSistersAndTheDuckbear/obj/Debug/net9.0/ref/TheFourSistersAndTheDuckbear.dll
