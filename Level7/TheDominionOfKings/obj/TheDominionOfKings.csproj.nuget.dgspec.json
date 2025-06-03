@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level1-HelloWorld/HelloWorld.csproj": {}
+    "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/TheDominionOfKings.csproj": {}
   },
   "projects": {
-    "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level1-HelloWorld/HelloWorld.csproj": {
+    "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/TheDominionOfKings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level1-HelloWorld/HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level1-HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/TheDominionOfKings.csproj",
+        "projectName": "TheDominionOfKings",
+        "projectPath": "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/TheDominionOfKings.csproj",
         "packagesPath": "/Users/arjun/.nuget/packages/",
-        "outputPath": "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level1-HelloWorld/obj/",
+        "outputPath": "/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arjun/.nuget/NuGet/NuGet.Config"

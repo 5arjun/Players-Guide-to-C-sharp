@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/bin/Debug/net9.0/TheDominionOfKings
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/bin/Debug/net9.0/TheDominionOfKings.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/bin/Debug/net9.0/TheDominionOfKings.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/bin/Debug/net9.0/TheDominionOfKings.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/bin/Debug/net9.0/TheDominionOfKings.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/TheDominionOfKings.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/TheDominionOfKings.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/TheDominionOfKings.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/TheDominionOfKings.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/TheDominionOfKings.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/refint/TheDominionOfKings.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/TheDominionOfKings.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/TheDominionOfKings.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheDominionOfKings/obj/Debug/net9.0/ref/TheDominionOfKings.dll
