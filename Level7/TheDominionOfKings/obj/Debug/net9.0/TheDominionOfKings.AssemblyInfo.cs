@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheDominionOfKings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa664db3f5009648f0cbf35d7f68cb3ae319d3e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+627d5a58a2d0e22cae7b8ed53b02238a783842b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheDominionOfKings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheDominionOfKings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
