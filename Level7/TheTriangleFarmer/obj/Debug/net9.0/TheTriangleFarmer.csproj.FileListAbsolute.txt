@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/bin/Debug/net9.0/TheTriangleFarmer
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/bin/Debug/net9.0/TheTriangleFarmer.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/bin/Debug/net9.0/TheTriangleFarmer.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/bin/Debug/net9.0/TheTriangleFarmer.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/bin/Debug/net9.0/TheTriangleFarmer.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/TheTriangleFarmer.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/TheTriangleFarmer.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/TheTriangleFarmer.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/TheTriangleFarmer.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/TheTriangleFarmer.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/refint/TheTriangleFarmer.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/TheTriangleFarmer.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/TheTriangleFarmer.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level7/TheTriangleFarmer/obj/Debug/net9.0/ref/TheTriangleFarmer.dll
