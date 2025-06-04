@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/bin/Debug/net9.0/DefenseOfConsolas
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/bin/Debug/net9.0/DefenseOfConsolas.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/bin/Debug/net9.0/DefenseOfConsolas.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/bin/Debug/net9.0/DefenseOfConsolas.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/bin/Debug/net9.0/DefenseOfConsolas.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/DefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/DefenseOfConsolas.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/DefenseOfConsolas.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/DefenseOfConsolas.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/DefenseOfConsolas.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/DefenseOfConsolas.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/refint/DefenseOfConsolas.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/DefenseOfConsolas.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/DefenseOfConsolas.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level8/DefenseOfConsolas/obj/Debug/net9.0/ref/DefenseOfConsolas.dll
