@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/bin/Debug/net9.0/Watchtower
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/bin/Debug/net9.0/Watchtower.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/bin/Debug/net9.0/Watchtower.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/bin/Debug/net9.0/Watchtower.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/bin/Debug/net9.0/Watchtower.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/Watchtower.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/Watchtower.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/Watchtower.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/Watchtower.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/Watchtower.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/refint/Watchtower.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/Watchtower.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/Watchtower.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level9/Watchtower/obj/Debug/net9.0/ref/Watchtower.dll
