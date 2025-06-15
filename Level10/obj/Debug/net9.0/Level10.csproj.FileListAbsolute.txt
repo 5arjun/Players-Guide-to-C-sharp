@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/bin/Debug/net9.0/Level10
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/bin/Debug/net9.0/Level10.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/bin/Debug/net9.0/Level10.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/bin/Debug/net9.0/Level10.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/bin/Debug/net9.0/Level10.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/Level10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/Level10.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/Level10.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/Level10.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/Level10.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/Level10.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/refint/Level10.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/Level10.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/Level10.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/obj/Debug/net9.0/ref/Level10.dll
