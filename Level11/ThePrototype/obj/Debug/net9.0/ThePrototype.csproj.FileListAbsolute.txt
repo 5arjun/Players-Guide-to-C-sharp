@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ThePrototype.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ThePrototype.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ThePrototype.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ThePrototype.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/bin/Debug/net9.0/ThePrototype
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/bin/Debug/net9.0/ThePrototype.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/bin/Debug/net9.0/ThePrototype.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/bin/Debug/net9.0/ThePrototype.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/bin/Debug/net9.0/ThePrototype.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ThePrototype.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/refint/ThePrototype.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ThePrototype.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ThePrototype.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/ThePrototype/obj/Debug/net9.0/ref/ThePrototype.dll
