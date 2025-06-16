@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/bin/Debug/net9.0/DiscountedInventory
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/bin/Debug/net9.0/DiscountedInventory.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/bin/Debug/net9.0/DiscountedInventory.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/bin/Debug/net9.0/DiscountedInventory.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/bin/Debug/net9.0/DiscountedInventory.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/DiscountedInventory.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/DiscountedInventory.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/DiscountedInventory.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/DiscountedInventory.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/DiscountedInventory.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/refint/DiscountedInventory.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/DiscountedInventory.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/DiscountedInventory.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level10/DiscountedInventory/obj/Debug/net9.0/ref/DiscountedInventory.dll
