@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/bin/Debug/net9.0/TheMagicCannon
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/bin/Debug/net9.0/TheMagicCannon.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/bin/Debug/net9.0/TheMagicCannon.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/bin/Debug/net9.0/TheMagicCannon.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/bin/Debug/net9.0/TheMagicCannon.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/TheMagicCannon.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/TheMagicCannon.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/TheMagicCannon.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/TheMagicCannon.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/TheMagicCannon.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/refint/TheMagicCannon.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/TheMagicCannon.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/TheMagicCannon.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level11/TheMagicCannon/obj/Debug/net9.0/ref/TheMagicCannon.dll
