@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/TheReplicatorOfDTo.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/TheReplicatorOfDTo.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/TheReplicatorOfDTo.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/bin/Debug/net9.0/TheReplicatorOfDTo
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/bin/Debug/net9.0/TheReplicatorOfDTo.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/bin/Debug/net9.0/TheReplicatorOfDTo.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/bin/Debug/net9.0/TheReplicatorOfDTo.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/bin/Debug/net9.0/TheReplicatorOfDTo.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/TheReplicatorOfDTo.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/refint/TheReplicatorOfDTo.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/TheReplicatorOfDTo.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/TheReplicatorOfDTo.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheReplicatorOfDTo/obj/Debug/net9.0/ref/TheReplicatorOfDTo.dll
