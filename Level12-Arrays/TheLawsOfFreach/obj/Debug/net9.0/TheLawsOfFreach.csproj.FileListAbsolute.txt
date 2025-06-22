@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/TheLawsOfFreach.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/TheLawsOfFreach.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/TheLawsOfFreach.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/TheLawsOfFreach.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/bin/Debug/net9.0/TheLawsOfFreach
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/bin/Debug/net9.0/TheLawsOfFreach.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/bin/Debug/net9.0/TheLawsOfFreach.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/bin/Debug/net9.0/TheLawsOfFreach.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/bin/Debug/net9.0/TheLawsOfFreach.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/TheLawsOfFreach.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/refint/TheLawsOfFreach.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/TheLawsOfFreach.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/TheLawsOfFreach.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level12-Arrays/TheLawsOfFreach/obj/Debug/net9.0/ref/TheLawsOfFreach.dll
