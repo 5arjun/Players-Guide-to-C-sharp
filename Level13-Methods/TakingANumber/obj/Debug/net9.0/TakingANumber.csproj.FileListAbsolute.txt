@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/bin/Debug/net9.0/TakingANumber
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/bin/Debug/net9.0/TakingANumber.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/bin/Debug/net9.0/TakingANumber.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/bin/Debug/net9.0/TakingANumber.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/bin/Debug/net9.0/TakingANumber.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/TakingANumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/TakingANumber.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/TakingANumber.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/TakingANumber.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/TakingANumber.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/TakingANumber.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/refint/TakingANumber.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/TakingANumber.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/TakingANumber.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/TakingANumber/obj/Debug/net9.0/ref/TakingANumber.dll
