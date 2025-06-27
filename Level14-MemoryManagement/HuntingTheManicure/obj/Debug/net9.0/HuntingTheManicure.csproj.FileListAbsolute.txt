@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/HuntingTheManicure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/HuntingTheManicure.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/HuntingTheManicure.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/HuntingTheManicure.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/HuntingTheManicure.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/bin/Debug/net9.0/HuntingTheManicure
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/bin/Debug/net9.0/HuntingTheManicure.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/bin/Debug/net9.0/HuntingTheManicure.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/bin/Debug/net9.0/HuntingTheManicure.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/bin/Debug/net9.0/HuntingTheManicure.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/HuntingTheManicure.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/refint/HuntingTheManicure.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/HuntingTheManicure.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/HuntingTheManicure.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level14-MemoryManagement/HuntingTheManicure/obj/Debug/net9.0/ref/HuntingTheManicure.dll
