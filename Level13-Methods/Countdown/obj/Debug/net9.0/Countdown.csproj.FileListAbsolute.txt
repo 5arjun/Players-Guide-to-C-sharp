@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/Countdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/Countdown.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/Countdown.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/Countdown.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/Countdown.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/bin/Debug/net9.0/Countdown
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/bin/Debug/net9.0/Countdown.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/bin/Debug/net9.0/Countdown.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/bin/Debug/net9.0/Countdown.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/bin/Debug/net9.0/Countdown.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/Countdown.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/refint/Countdown.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/Countdown.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/Countdown.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level13-Methods/Countdown/obj/Debug/net9.0/ref/Countdown.dll
