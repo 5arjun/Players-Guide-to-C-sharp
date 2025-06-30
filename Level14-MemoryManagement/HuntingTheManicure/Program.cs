@@ -1,11 +1,4 @@
-﻿// Player 2, it is your turn.
-// -----------------------------------------------------------
-// STATUS: Round: 1 City: 15/15 Manticore: 10/10
-// The cannon is expected to deal 1 damage this round.
-// Enter desired cannon range: 50
-// That round OVERSHOT the target.
-
-void DrawLine()
+﻿void DrawLine()
 {
     Console.WriteLine("--------------------------------------------------");
 }
