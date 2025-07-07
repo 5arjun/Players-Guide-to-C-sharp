@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/SimulasTest.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/SimulasTest.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/SimulasTest.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/SimulasTest.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/bin/Debug/net9.0/SimulasTest
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/bin/Debug/net9.0/SimulasTest.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/bin/Debug/net9.0/SimulasTest.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/bin/Debug/net9.0/SimulasTest.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/bin/Debug/net9.0/SimulasTest.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/SimulasTest.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/refint/SimulasTest.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/SimulasTest.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/SimulasTest.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level16-Enumeration/SimulasTest/obj/Debug/net9.0/ref/SimulasTest.dll
