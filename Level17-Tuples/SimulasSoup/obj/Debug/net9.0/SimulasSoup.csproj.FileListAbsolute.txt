@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/SimulasSoup.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/SimulasSoup.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/SimulasSoup.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/SimulasSoup.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/bin/Debug/net9.0/SimulasSoup
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/bin/Debug/net9.0/SimulasSoup.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/bin/Debug/net9.0/SimulasSoup.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/bin/Debug/net9.0/SimulasSoup.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/bin/Debug/net9.0/SimulasSoup.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/SimulasSoup.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/refint/SimulasSoup.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/SimulasSoup.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/SimulasSoup.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level17-Tuples/SimulasSoup/obj/Debug/net9.0/ref/SimulasSoup.dll
