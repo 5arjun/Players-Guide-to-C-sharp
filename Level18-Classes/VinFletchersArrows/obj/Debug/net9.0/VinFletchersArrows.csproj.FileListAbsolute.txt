@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/VinFletchersArrows.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/VinFletchersArrows.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/VinFletchersArrows.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/VinFletchersArrows.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/bin/Debug/net9.0/VinFletchersArrows
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/bin/Debug/net9.0/VinFletchersArrows.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/bin/Debug/net9.0/VinFletchersArrows.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/bin/Debug/net9.0/VinFletchersArrows.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/bin/Debug/net9.0/VinFletchersArrows.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/VinFletchersArrows.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/refint/VinFletchersArrows.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/VinFletchersArrows.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/VinFletchersArrows.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level18-Classes/VinFletchersArrows/obj/Debug/net9.0/ref/VinFletchersArrows.dll
