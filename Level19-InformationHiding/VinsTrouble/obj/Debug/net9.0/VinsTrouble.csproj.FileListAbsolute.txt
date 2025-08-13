@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/VinsTrouble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/VinsTrouble.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/VinsTrouble.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/VinsTrouble.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/VinsTrouble.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/bin/Debug/net9.0/VinsTrouble
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/bin/Debug/net9.0/VinsTrouble.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/bin/Debug/net9.0/VinsTrouble.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/bin/Debug/net9.0/VinsTrouble.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/bin/Debug/net9.0/VinsTrouble.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/VinsTrouble.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/refint/VinsTrouble.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/VinsTrouble.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/VinsTrouble.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level19-InformationHiding/VinsTrouble/obj/Debug/net9.0/ref/VinsTrouble.dll
