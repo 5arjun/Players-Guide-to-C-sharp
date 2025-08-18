@@ -9,19 +9,16 @@ class Arrow
     public Fletching Fletching { get; }
     public float Length { get; }
 
-
     public Arrow(Arrowhead arrowhead, Fletching fletching, float length)
     {
-        _arrowhead = arrowhead;
-        _fletching = fletching;
-        _length = length;
+        Arrowhead = arrowhead;
+        Fletching = fletching;
+        Length = length;
     }
 
-    public Arrowhead getArrowhead() => _arrowhead;
-    public Fletching getFletching() => _fletching;
     public float GetCost()
     {
-        float arrowheadCost = arrowhead switch
+        float arrowheadCost = Arrowhead switch
         {
             Arrowhead.steel => 10,
             Arrowhead.wood => 3,
@@ -29,7 +26,7 @@ class Arrow
             _ => 0
         };
 
-        float fletchingCost = fletching switch
+        float fletchingCost = Fletching switch
         {
             Fletching.plastic => 10,
             Fletching.turkey => 5,
@@ -37,7 +34,7 @@ class Arrow
             _ => 0
         };
 
-        return arrowheadCost + fletchingCost + (length * 0.05f);
+        return arrowheadCost + fletchingCost + (Length * 0.05f);
     }
 }
 
@@ -81,7 +78,8 @@ class Program
         Arrow arrow = new Arrow(chosenArrowhead, chosenFletching, chosenLength);
         Console.WriteLine($"The arrow will cost {arrow.GetCost()} gold coins.");
 
-        Console.WriteLine($"Arrowhead: {arrow.getArrowhead()}");
-        Console.WriteLine($"Fletching: {arrow.getFletching()}");
+        Console.WriteLine($"Arrowhead: {arrow.Arrowhead}");
+        Console.WriteLine($"Fletching: {arrow.Fletching}");
+        Console.WriteLine($"Length: {arrow.Length} cm");
     }
 }

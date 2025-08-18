@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/bin/Debug/net9.0/ThePropertyOfArrows
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/bin/Debug/net9.0/ThePropertyOfArrows.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/bin/Debug/net9.0/ThePropertyOfArrows.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/bin/Debug/net9.0/ThePropertyOfArrows.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/bin/Debug/net9.0/ThePropertyOfArrows.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ThePropertyOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ThePropertyOfArrows.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ThePropertyOfArrows.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ThePropertyOfArrows.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ThePropertyOfArrows.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ThePropertyOfArrows.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/refint/ThePropertyOfArrows.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ThePropertyOfArrows.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ThePropertyOfArrows.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level20-Properties/ThePropertyOfArrows/obj/Debug/net9.0/ref/ThePropertyOfArrows.dll
