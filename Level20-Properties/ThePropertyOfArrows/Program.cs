@@ -63,7 +63,7 @@ class Program
                 break;
             Console.WriteLine("Invalid choice. Try again.");
         }
-
+ 
         // Get shaft length
         float chosenLength;
         while (true)
