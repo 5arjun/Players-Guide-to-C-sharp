@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ArrowFactories.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ArrowFactories.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ArrowFactories.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ArrowFactories.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/bin/Debug/net9.0/ArrowFactories
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/bin/Debug/net9.0/ArrowFactories.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/bin/Debug/net9.0/ArrowFactories.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/bin/Debug/net9.0/ArrowFactories.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/bin/Debug/net9.0/ArrowFactories.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ArrowFactories.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/refint/ArrowFactories.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ArrowFactories.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ArrowFactories.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level21-Static/ArrowFactories/obj/Debug/net9.0/ref/ArrowFactories.dll
