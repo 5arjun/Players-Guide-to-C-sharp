@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/bin/Debug/net9.0/ThePoint
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/bin/Debug/net9.0/ThePoint.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/bin/Debug/net9.0/ThePoint.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/bin/Debug/net9.0/ThePoint.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/bin/Debug/net9.0/ThePoint.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ThePoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ThePoint.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ThePoint.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ThePoint.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ThePoint.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ThePoint.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/refint/ThePoint.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ThePoint.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ThePoint.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/ThePoint/obj/Debug/net9.0/ref/ThePoint.dll
