@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/bin/Debug/net9.0/TheColor
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/bin/Debug/net9.0/TheColor.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/bin/Debug/net9.0/TheColor.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/bin/Debug/net9.0/TheColor.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/bin/Debug/net9.0/TheColor.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/TheColor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/TheColor.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/TheColor.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/TheColor.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/TheColor.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/TheColor.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/refint/TheColor.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/TheColor.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/TheColor.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheColor/obj/Debug/net9.0/ref/TheColor.dll
