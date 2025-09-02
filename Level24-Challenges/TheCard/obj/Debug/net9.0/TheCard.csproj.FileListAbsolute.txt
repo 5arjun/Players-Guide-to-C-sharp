@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/TheCard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/TheCard.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/TheCard.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/TheCard.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/TheCard.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/bin/Debug/net9.0/TheCard
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/bin/Debug/net9.0/TheCard.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/bin/Debug/net9.0/TheCard.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/bin/Debug/net9.0/TheCard.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/bin/Debug/net9.0/TheCard.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/TheCard.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/refint/TheCard.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/TheCard.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/TheCard.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheCard/obj/Debug/net9.0/ref/TheCard.dll
