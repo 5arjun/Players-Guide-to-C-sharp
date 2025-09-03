@@ -1,0 +1,15 @@
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/TheLockedDoor.AssemblyInfoInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/TheLockedDoor.AssemblyInfo.cs
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/TheLockedDoor.csproj.CoreCompileInputs.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/TheLockedDoor.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/bin/Debug/net9.0/TheLockedDoor
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/bin/Debug/net9.0/TheLockedDoor.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/bin/Debug/net9.0/TheLockedDoor.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/bin/Debug/net9.0/TheLockedDoor.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/bin/Debug/net9.0/TheLockedDoor.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/TheLockedDoor.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/refint/TheLockedDoor.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/TheLockedDoor.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/TheLockedDoor.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/TheLockedDoor/obj/Debug/net9.0/ref/TheLockedDoor.dll
