@@ -2,62 +2,73 @@
 
 public enum Choice { Rock, Paper, Scissors };
 
-public class aPlayer
+public class Player
 {
-    public int score { get; set; } = 0;
-    public Choice choice { get; set; }
+    public int Score { get; set; } = 0;
+    public Choice Choice { get; set; }
 }
+
 public static class Game
 {
-    public static void getUserChoice(aPlayer player)
+    private static Random rand = new Random();
+
+    public static void GetUserChoice(Player player)
     {
         while (true)
         {
-            Console.Write("Choose rock, paper, or scissors: ");
+            Console.Write("Choose Rock, Paper, or Scissors: ");
             if (Enum.TryParse(Console.ReadLine(), true, out Choice parsedChoice))
             {
-                player.choice = parsedChoice;
+                player.Choice = parsedChoice;
                 break;
             }
             Console.WriteLine("Invalid choice. Try again.");
         }
     }
 
-
-    public static void computerChoice(aPlayer computer)
+    public static void ComputerChoice(Player computer)
     {
-        Random rand = new Random();
-        computer.choice = (Choice)rand.Next(0, 3);
-
+        computer.Choice = (Choice)rand.Next(0, 3);
     }
 
-    public static string getWinner(aPlayer user, aPlayer computer)
+    public static string GetWinner(Player user, Player computer)
     {
-        if (user.choice == computer.choice) return $"Tie! No winners. SCORE You: {user.score} | AI: {computer.score}";
-        else if ((user.choice == Choice.Rock && computer.choice == Choice.Scissors) ||
-                 (user.choice == Choice.Paper && computer.choice == Choice.Rock) ||
-                 (user.choice == Choice.Scissors && computer.choice == Choice.Paper))
+        if (user.Choice == computer.Choice)
+            return $"Tie! No winners. SCORE You: {user.Score} | AI: {computer.Score}";
+        else if ((user.Choice == Choice.Rock && computer.Choice == Choice.Scissors) ||
+                 (user.Choice == Choice.Paper && computer.Choice == Choice.Rock) ||
+                 (user.Choice == Choice.Scissors && computer.Choice == Choice.Paper))
         {
-            user.score++;
-            return $"You win. SCORE You: {user.score} | AI: {computer.score}";
+            user.Score++;
+            return $"You win. SCORE You: {user.Score} | AI: {computer.Score}";
         }
         else
         {
-            computer.score++;
-            return $"You lost. SCORE You: {user.score} | AI: {computer.score}";
+            computer.Score++;
+            return $"You lost. SCORE You: {user.Score} | AI: {computer.Score}";
         }
     }
 }
+
 public class Program
 {
     public static void Main()
     {
-        aPlayer user = new aPlayer();
-        aPlayer ai = new aPlayer();
+        Player user = new Player();
+        Player ai = new Player();
 
+        while (true)
+        {
+            Game.GetUserChoice(user);
+            Game.ComputerChoice(ai);
 
-        Game.getUserChoice(user);
-        Game.computerChoice(ai);
-        Console.WriteLine(Game.getWinner(user, ai));
+            Console.WriteLine($"AI chose: {ai.Choice}");
+            Console.WriteLine(Game.GetWinner(user, ai));
+
+            Console.Write("Play again? (y/n): ");
+            if (Console.ReadLine().ToLower() != "y") break;
+        }
+
+        Console.WriteLine("Good looks for playing!");
     }
 }

@@ -3,3 +3,13 @@
 /Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/obj/Debug/net9.0/RockPaperScissors.AssemblyInfo.cs
 /Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/obj/Debug/net9.0/RockPaperScissors.csproj.CoreCompileInputs.cache
 /Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/obj/Debug/net9.0/RockPaperScissors.sourcelink.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/bin/Debug/net9.0/RockPaperScissors
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/bin/Debug/net9.0/RockPaperScissors.deps.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/bin/Debug/net9.0/RockPaperScissors.runtimeconfig.json
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/bin/Debug/net9.0/RockPaperScissors.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/bin/Debug/net9.0/RockPaperScissors.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/obj/Debug/net9.0/RockPaperScissors.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/obj/Debug/net9.0/refint/RockPaperScissors.dll
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/obj/Debug/net9.0/RockPaperScissors.pdb
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/obj/Debug/net9.0/RockPaperScissors.genruntimeconfig.cache
+/Users/arjun/Documents/Players-Guide-to-C-sharp/Level24-Challenges/RockPaperScissors/obj/Debug/net9.0/ref/RockPaperScissors.dll
