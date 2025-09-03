@@ -1,6 +1,6 @@
 ﻿using System;
 
-public enum Choice { rock, paper, scissors };
+public enum Choice { Rock, Paper, Scissors };
 
 public class aPlayer
 {
@@ -14,12 +14,15 @@ public static class Game
         while (true)
         {
             Console.Write("Choose rock, paper, or scissors: ");
-            if (Enum.TryParse(Console.ReadLine(), true, out player.choice))
+            if (Enum.TryParse(Console.ReadLine(), true, out Choice parsedChoice))
+            {
+                player.choice = parsedChoice;
                 break;
+            }
             Console.WriteLine("Invalid choice. Try again.");
         }
-
     }
+
 
     public static void computerChoice(aPlayer computer)
     {
