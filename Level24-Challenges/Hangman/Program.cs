@@ -33,14 +33,18 @@ public static class Game
         return display.ToUpper();
     }
 
-    public static int takeGuess()
+    public static void takeGuess()
     {
-        Console.Write("Guess: ");
-        char guess = Console.ReadLine()[0];
-        remainingGuesses--;
+        while (true)
+        {
+            Console.Write("Guess: ");
+            char guess = Console.ReadLine()[0].ToLower();
+            remainingGuesses--;
+            break;
+        }
     }
     public static void displayState()
     {
-        Console.WriteLine($"Word: {showWord()} | Remaining: | Incorrect: {showIncorrect()}");
+        Console.WriteLine($"Word: {showWord()} | Remaining: | Incorrect: {showIncorrect()} | {takeGuess()}");
     }
 }
