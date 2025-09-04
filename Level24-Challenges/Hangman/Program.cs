@@ -15,7 +15,7 @@ public static class Game
         for (int i = 0; i < word.Length; i++)
         {
             if (guessedLetters.ContainsKey(word[i]))
-                display += word[i];
+                display += $"{word[i]} ";
             else
                 display += "_ ";
         }
