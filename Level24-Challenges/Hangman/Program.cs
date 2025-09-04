@@ -34,15 +34,37 @@ public static class Game
     }
 
     public static void takeGuess()
+{
+    while (true)
     {
-        while (true)
+        Console.Write("Guess: ");
+        string input = Console.ReadLine().ToLower();
+
+        if (string.IsNullOrWhiteSpace(input) || input.Length != 1)
         {
-            Console.Write("Guess: ");
-            char guess = Console.ReadLine()[0].ToLower();
-            remainingGuesses--;
-            break;
+            Console.WriteLine("Please enter a single letter.");
+            continue;
         }
+
+        char guess = input[0];
+
+        if (guessedLetters.ContainsKey(guess))
+        {
+            Console.WriteLine("You already guessed that letter bruh. Try again.");
+            continue;
+        }
+
+        guessedLetters[guess] = 1;
+
+        if (!word.Contains(guess))
+        {
+            remainingGuesses--;
+        }
+
+        break;
     }
+}
+
     public static void displayState()
     {
         Console.WriteLine($"Word: {showWord()} | Remaining: | Incorrect: {showIncorrect()} | {takeGuess()}");
