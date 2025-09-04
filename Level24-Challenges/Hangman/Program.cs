@@ -4,7 +4,7 @@ public static class Game
     static Random r = new Random();
 
     public static Dictionary<char, int> guessedLetters = new Dictionary<char, int>();
-    private static string[] words = { "family", "school", "umbrella", "chickens, gamer, ronaldo, portugal" };
+    private static string[] words = { "family", "school", "umbrella", "chickens", "gamer", "ronaldo", "portugal" };
     public static string word = words[r.Next(0, words.Length)];
     public static int remainingGuesses { get; set; } = 5;
 
@@ -42,7 +42,7 @@ public static class Game
 
             if (string.IsNullOrWhiteSpace(input) || input.Length != 1)
             {
-                Console.WriteLine("Please enter a single letter.");
+                Console.Write("Please enter a single letter.");
                 continue;
             }
 
@@ -67,7 +67,7 @@ public static class Game
 
     public static void displayState()
     {
-        Console.WriteLine($"Word: {showWord()} | Remaining: {remainingGuesses}| Incorrect: {showIncorrect()}");
+        Console.Write($"Word: {showWord()} | Remaining: {remainingGuesses} | Incorrect: {showIncorrect()} | ");
     }
 }
 
