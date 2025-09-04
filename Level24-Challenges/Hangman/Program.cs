@@ -3,23 +3,34 @@ public static class Game
 {
     static Random r = new Random();
 
-    public Dictionary<char, int> guessedLetters = new Dictionary<char, int>();
-    private string[] words = { "man", "rat", "cow", "chicken" };
-    private string word = words[r.Next(0, words.Length)];
-    private int remainingGuesses { get; } = 5;
+    public static Dictionary<char, int> guessedLetters = new Dictionary<char, int>();
+    private static string[] words = { "man", "rat", "cow", "chicken" };
+    private static string word = words[r.Next(0, words.Length)];
+    private static int remainingGuesses { get; set; } = 5;
 
 
-    public string showWord(string word, Dictionary guessedLetters)
+    public static string showWord()
     {
         string display = "";
-        for (int i = 0; i < word.length; i++)
+        for (int i = 0; i < word.Length; i++)
         {
-            if (guessedLetters.ContainsKey(word[i]) == -1 )
+            if (guessedLetters.ContainsKey(word[i]))
                 display += word[i];
             else
                 display += '_';
         }
         return display;
+    }
+
+    public static string showIncorrect()
+    {
+        string display = "";
+        foreach (char c in guessedLetters.Keys)
+        {
+            if (word.Contains(c)) continue;
+            display += $"{c} ";
+        }
+        return display.ToUpper();
     }
 
     public static int takeGuess()
@@ -30,6 +41,6 @@ public static class Game
     }
     public static void displayState()
     {
-        Console.WriteLine($"Word: {showWord(word, guessedLetters)} | Remaining: ");
+        Console.WriteLine($"Word: {showWord()} | Remaining: | Incorrect: {showIncorrect()}");
     }
 }
