@@ -4,7 +4,7 @@ public static class Game
     static Random r = new Random();
 
     public static Dictionary<char, int> guessedLetters = new Dictionary<char, int>();
-    private static string[] words = { "man", "rat", "cow", "chicken" };
+    private static string[] words = { "family", "school", "umbrella", "chickens, gamer, ronaldo, portugal" };
     public static string word = words[r.Next(0, words.Length)];
     public static int remainingGuesses { get; set; } = 5;
 
@@ -17,7 +17,7 @@ public static class Game
             if (guessedLetters.ContainsKey(word[i]))
                 display += word[i];
             else
-                display += '_';
+                display += "_ ";
         }
         return display;
     }
