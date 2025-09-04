@@ -42,7 +42,7 @@ public static class Game
 
             if (string.IsNullOrWhiteSpace(input) || input.Length != 1)
             {
-                Console.Write("Please enter a single letter.");
+                Console.Write("Please enter a single letter. ");
                 continue;
             }
 
@@ -50,7 +50,7 @@ public static class Game
 
             if (guessedLetters.ContainsKey(guess))
             {
-                Console.WriteLine("You already guessed that letter bruh. Try again.");
+                Console.Write("You already guessed that letter bruh. Try again. ");
                 continue;
             }
 
