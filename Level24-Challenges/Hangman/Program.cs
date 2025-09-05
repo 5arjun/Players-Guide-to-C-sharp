@@ -8,7 +8,7 @@ public static class Game
     public static string word = words[r.Next(0, words.Length)];
     public static int remainingGuesses { get; set; } = 5;
 
-
+ 
     public static string showWord()
     {
         string display = "";
