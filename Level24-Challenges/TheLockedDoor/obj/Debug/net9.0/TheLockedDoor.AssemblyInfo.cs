@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheLockedDoor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fd8319ff2293976a1cf4b0c0cbba0308da64034")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5f7bc6c3aa890b615205ae94ec756a2186ba45e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheLockedDoor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheLockedDoor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

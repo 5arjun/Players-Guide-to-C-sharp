@@ -23,8 +23,11 @@ class Program
         Point myPoint = new Point(2, 3);
         Point myPoint2 = new Point(-4, 0);
 
+        myPoint.x = 5;
+
         Console.WriteLine($"Point 1:({myPoint.x},{myPoint.y})");
         Console.WriteLine($"Point 2:({myPoint2.x},{myPoint2.y})");
+
 
     }
 }
